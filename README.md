@@ -1,2 +1,2 @@
 # Txt.Car.Race.Game
-Its a card racing game build using texture and Opengl
+Its a car racing game build using texture and Opengl
